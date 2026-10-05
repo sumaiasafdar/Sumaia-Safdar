@@ -10,7 +10,7 @@ Included:
 - Academic Writing Services
 - Turnaround-time panel
 - Portfolio sample sections using the supplied screenshots
-- 10 complete writing portfolio PDFs
+- 11 complete writing portfolio PDFs
 - Request a Quote form that opens WhatsApp
 - Client review/chat-style section
 - Payment methods
